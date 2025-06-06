@@ -1,0 +1,1113 @@
+[{
+  "_id": {
+    "$oid": "68411f11293b6938d4312584"
+  },
+  "nombre": "Rick y Morty",
+  "genero": "ciencia ficcion",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2025-06-04T15:30:00.000+00:00",
+  "valoracion": 5,
+  "reseña": "Es una muy buena serie"
+},
+{
+  "_id": {
+    "$oid": "684130d8293b6938d4312589"
+  },
+  "nombre": "1984",
+  "genero": "distopía",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "684130d8293b6938d431258a"
+  },
+  "nombre": "Breaking Bad",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-11-02T20:17:00Z",
+  "valoracion": 5,
+  "reseña": "Actuaciones increíbles."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431258b"
+  },
+  "nombre": "The Martian",
+  "genero": "aventura",
+  "plataforma": "Disney+",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2024-02-11T09:50:00Z",
+  "valoracion": 4,
+  "reseña": "Innovadora y atrapante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431258c"
+  },
+  "nombre": "Stranger Things",
+  "genero": "fantasía",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431258d"
+  },
+  "nombre": "The Expanse",
+  "genero": "ciencia ficción",
+  "plataforma": "Amazon Prime",
+  "estado": {
+    "progreso": false,
+    "terminado": false,
+    "pendiente": true
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431258e"
+  },
+  "nombre": "Dune",
+  "genero": "aventura",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2022-01-28T17:45:00Z",
+  "valoracion": 5,
+  "reseña": "Una joya poco conocida."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431258f"
+  },
+  "nombre": "The Godfather",
+  "genero": "drama",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2023-12-09T22:00:00Z",
+  "valoracion": 5,
+  "reseña": "Muy buena, la recomiendo."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312590"
+  },
+  "nombre": "Black Mirror",
+  "genero": "ciencia ficción",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312591"
+  },
+  "nombre": "Pride and Prejudice",
+  "genero": "drama",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2020-08-19T16:38:00Z",
+  "valoracion": 4,
+  "reseña": "Me encantó, excelente producción."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312592"
+  },
+  "nombre": "Inception",
+  "genero": "acción",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2021-04-07T10:55:00Z",
+  "valoracion": 5,
+  "reseña": "Visualmente impactante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312593"
+  },
+  "nombre": "Brave New World",
+  "genero": "distopía",
+  "plataforma": "Apple TV",
+  "estado": {
+    "progreso": false,
+    "terminado": false,
+    "pendiente": true
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312594"
+  },
+  "nombre": "The Witcher",
+  "genero": "fantasía",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312595"
+  },
+  "nombre": "The Mandalorian",
+  "genero": "aventura",
+  "plataforma": "Disney+",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2023-05-23T14:47:00Z",
+  "valoracion": 5,
+  "reseña": "Me encantó, excelente producción."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312596"
+  },
+  "nombre": "The Hunger Games",
+  "genero": "acción",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2022-09-05T11:03:00Z",
+  "valoracion": 4,
+  "reseña": "Actuaciones increíbles."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312597"
+  },
+  "nombre": "Arrival",
+  "genero": "ciencia ficción",
+  "plataforma": "Amazon Prime",
+  "estado": {
+    "progreso": false,
+    "terminado": false,
+    "pendiente": true
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312598"
+  },
+  "nombre": "Parasite",
+  "genero": "drama",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2023-01-30T13:18:00Z",
+  "valoracion": 5,
+  "reseña": "Una joya poco conocida."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d4312599"
+  },
+  "nombre": "Foundation",
+  "genero": "ciencia ficción",
+  "plataforma": "Apple TV",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259a"
+  },
+  "nombre": "Westworld",
+  "genero": "distopía",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": false,
+    "pendiente": true
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259b"
+  },
+  "nombre": "Sherlock",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-05-04T18:33:00Z",
+  "valoracion": 5,
+  "reseña": "Muy buena, la recomiendo."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259c"
+  },
+  "nombre": "Avatar",
+  "genero": "ciencia ficción",
+  "plataforma": "Disney+",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2021-12-15T14:00:00Z",
+  "valoracion": 5,
+  "reseña": "Visualmente impresionante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259d"
+  },
+  "nombre": "The Office",
+  "genero": "comedia",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-07-22T20:15:00Z",
+  "valoracion": 4,
+  "reseña": "Muy divertida y ligera."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259e"
+  },
+  "nombre": "The Hobbit",
+  "genero": "fantasía",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2019-11-05T10:00:00Z",
+  "valoracion": 5,
+  "reseña": "Un clásico imprescindible."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d431259f"
+  },
+  "nombre": "Friends",
+  "genero": "comedia",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2022-06-17T21:00:00Z",
+  "valoracion": 4,
+  "reseña": "Entretenida y nostálgica."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a0"
+  },
+  "nombre": "Game of Thrones",
+  "genero": "fantasía",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a1"
+  },
+  "nombre": "The Alchemist",
+  "genero": "aventura",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2020-03-11T13:00:00Z",
+  "valoracion": 5,
+  "reseña": "Inspirador y profundo."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a2"
+  },
+  "nombre": "La La Land",
+  "genero": "musical",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2021-09-23T16:30:00Z",
+  "valoracion": 4,
+  "reseña": "Hermosa banda sonora."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a3"
+  },
+  "nombre": "Stranger Things 2",
+  "genero": "fantasía",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a4"
+  },
+  "nombre": "Harry Potter and the Philosopher's Stone",
+  "genero": "fantasía",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2018-10-31T19:30:00Z",
+  "valoracion": 5,
+  "reseña": "Un clásico moderno."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a5"
+  },
+  "nombre": "The Crown",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2023-11-02T21:15:00Z",
+  "valoracion": 4,
+  "reseña": "Muy buena, la recomiendo."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a6"
+  },
+  "nombre": "The Matrix",
+  "genero": "ciencia ficción",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2022-02-18T17:00:00Z",
+  "valoracion": 5,
+  "reseña": "Clásico de culto."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a7"
+  },
+  "nombre": "Breaking Bad",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2021-06-10T19:30:00Z",
+  "valoracion": 5,
+  "reseña": "Una de las mejores series."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a8"
+  },
+  "nombre": "The Lord of the Rings: The Fellowship of the Ring",
+  "genero": "fantasía",
+  "plataforma": "Amazon Prime",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-12-12T14:00:00Z",
+  "valoracion": 5,
+  "reseña": "Épica aventura."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125a9"
+  },
+  "nombre": "Game of Thrones: Season 8",
+  "genero": "fantasía",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2019-05-19T22:00:00Z",
+  "valoracion": 3,
+  "reseña": "Controvertida pero entretenida."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125aa"
+  },
+  "nombre": "The Great Gatsby",
+  "genero": "drama",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2019-09-10T12:30:00Z",
+  "valoracion": 4,
+  "reseña": "Un clásico moderno."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125ab"
+  },
+  "nombre": "Westworld: Season 3",
+  "genero": "distopía",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125ac"
+  },
+  "nombre": "The Catcher in the Rye",
+  "genero": "drama",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2020-11-11T15:00:00Z",
+  "valoracion": 4,
+  "reseña": "Un clásico literario."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125ad"
+  },
+  "nombre": "The Simpsons",
+  "genero": "comedia",
+  "plataforma": "Disney+",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125ae"
+  },
+  "nombre": "The Fault in Our Stars",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2021-02-14T17:30:00Z",
+  "valoracion": 4,
+  "reseña": "Emotivo y bien escrito."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125af"
+  },
+  "nombre": "Interstellar",
+  "genero": "ciencia ficción",
+  "plataforma": "Amazon Prime",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-10-07T14:20:00Z",
+  "valoracion": 5,
+  "reseña": "Emocionante y visualmente impresionante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b0"
+  },
+  "nombre": "Black Mirror",
+  "genero": "ciencia ficción",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b1"
+  },
+  "nombre": "The Witcher",
+  "genero": "fantasía",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2022-05-15T21:30:00Z",
+  "valoracion": 4,
+  "reseña": "Muy buena adaptación."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b2"
+  },
+  "nombre": "Pride and Prejudice",
+  "genero": "romance",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2019-04-25T16:00:00Z",
+  "valoracion": 5,
+  "reseña": "Un clásico literario muy recomendable."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b3"
+  },
+  "nombre": "Sherlock",
+  "genero": "misterio",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2021-11-10T20:45:00Z",
+  "valoracion": 5,
+  "reseña": "Intrigante y bien actuada."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b4"
+  },
+  "nombre": "The Mandalorian",
+  "genero": "ciencia ficción",
+  "plataforma": "Disney+",
+  "estado": {
+    "progreso": true,
+    "terminado": false,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": null,
+  "valoracion": null,
+  "reseña": null
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b5"
+  },
+  "nombre": "The Road",
+  "genero": "distopía",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2018-08-12T15:00:00Z",
+  "valoracion": 4,
+  "reseña": "Profundo y oscuro."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b6"
+  },
+  "nombre": "Breaking Bad: Season 5",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2013-09-29T22:00:00Z",
+  "valoracion": 5,
+  "reseña": "Final épico."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b7"
+  },
+  "nombre": "The Hunger Games",
+  "genero": "distopía",
+  "plataforma": "Amazon Prime",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2014-03-23T18:30:00Z",
+  "valoracion": 4,
+  "reseña": "Intensa y emocionante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b8"
+  },
+  "nombre": "The Handmaid's Tale",
+  "genero": "distopía",
+  "plataforma": "Hulu",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2020-06-14T21:00:00Z",
+  "valoracion": 4,
+  "reseña": "Impactante y relevante."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125b9"
+  },
+  "nombre": "To Kill a Mockingbird",
+  "genero": "drama",
+  "plataforma": "Físico",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": false,
+    "libro": true
+  },
+  "fechaTerminacion": "2017-12-05T14:00:00Z",
+  "valoracion": 5,
+  "reseña": "Clásico de la literatura."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125ba"
+  },
+  "nombre": "The Dark Knight",
+  "genero": "acción",
+  "plataforma": "HBO Max",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": " 2008-07-18T20:00:00Z",
+  "valoracion": 5,
+  "reseña": "Mejor película de Batman."
+},
+{
+  "_id": {
+    "$oid": "68413445293b6938d43125bb"
+  },
+  "nombre": "Breaking Bad",
+  "genero": "drama",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": true,
+    "pelicula": false,
+    "libro": false
+  },
+  "fechaTerminacion": "2008-01-20T21:00:00Z",
+  "valoracion": 5,
+  "reseña": "Inicio impactante."
+},
+{
+  "_id": {
+    "$oid": "68424c8cbd886ee78e118aec"
+  },
+  "nombre": "Warrior",
+  "genero": "accion",
+  "plataforma": "Netflix",
+  "estado": {
+    "progreso": false,
+    "terminado": true,
+    "pendiente": false
+  },
+  "formato": {
+    "serie": false,
+    "pelicula": true,
+    "libro": false
+  },
+  "fechaTerminacion": "2017-12-05T14:00:00Z",
+  "valoracion": 4,
+  "reseña": "Muy buena pelicula de mma."
+}]
